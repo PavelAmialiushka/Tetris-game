@@ -1,0 +1,45 @@
+﻿  Field.cpp
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(27,21): error C2653: Field: не является именем класса или пространства имен
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(27,28): error C2065: COLS: необъявленный идентификатор
+  Figure.cpp
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(27,21): error C2653: Field: не является именем класса или пространства имен
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(27,28): error C2065: COLS: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(4,1): error C2011: Rotations: переопределение типа "enum"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(3): message : см. объявление "Rotations"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(11,1): error C2011: Symbols: переопределение типа "enum"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(10): message : см. объявление "Symbols"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(22,1): error C2011: Figure: переопределение типа "class"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(21): message : см. объявление "Figure"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(3,9): error C2027: использование неопределенного типа "Figure"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(21): message : см. объявление "Figure"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(4,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(5,2): error C2065: current_symbol: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(6,2): error C2065: current_rotation: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(6,32): error C2027: использование неопределенного типа "Rotations"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(3): message : см. объявление "Rotations"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(7,2): error C2065: symbol: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(8,22): error C2065: symbol: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(8,42): error C2065: symbol: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(9,13): error C2065: current_symbol: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(9,2): error C3861: CreateForm: идентификатор не найден
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(10,1): warning C4508: {ctor}: функция должна возвращать значение; предполагается возвращаемый тип "void"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(12,14): error C2027: использование неопределенного типа "Figure"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(21): message : см. объявление "Figure"
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(17,3): error C2065: symbol: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(22,3): error C3079: список инициализаторов не может использоваться в качестве правого операнда оператора назначения
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(26,3): error C2065: symbol: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(31,3): error C3079: список инициализаторов не может использоваться в качестве правого операнда оператора назначения
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(35,3): error C2065: symbol: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(40,3): error C3079: список инициализаторов не может использоваться в качестве правого операнда оператора назначения
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(44,3): error C2065: symbol: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(49,3): error C3079: список инициализаторов не может использоваться в качестве правого операнда оператора назначения
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(53,3): error C2065: symbol: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(58,3): error C3079: список инициализаторов не может использоваться в качестве правого операнда оператора назначения
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(62,3): error C2065: symbol: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(67,3): error C3079: список инициализаторов не может использоваться в качестве правого операнда оператора назначения
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(70,3): error C2065: symbol: необъявленный идентификатор
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.cpp(75,3): error C3079: список инициализаторов не может использоваться в качестве правого операнда оператора назначения
+  Game.cpp
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(27,21): error C2653: Field: не является именем класса или пространства имен
+C:\Users\Катя\Desktop\дашин стафф\Tetris\Figure.h(27,28): error C2065: COLS: необъявленный идентификатор
+  Создание кода...
