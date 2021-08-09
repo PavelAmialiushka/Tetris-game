@@ -9,7 +9,8 @@ public:
 	Field();
 	Figure current_element(Field*);
 
-	int COLS;
+	// эти переменные должны находится внутри секции private:
+	int COLS; // с большой буквы пишут обычно только макросы. Здесь просто переменные и их нужно писать с маленькой
 	int ROWS;
 	std::vector<std::vector<char>> coords;
 
